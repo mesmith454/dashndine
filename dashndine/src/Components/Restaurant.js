@@ -1,7 +1,10 @@
-import React, { Component } from "react"; 
+import React from "react";
+import ReactDOM from 'react-dom';
 
-const Restaurant = () => {
-
+class Cart extends React.Component {
+    render () {
+        return
+    }
 }
 
-export default Restaurant; 
+ReactDOM.render(<Restaurant />, document.getElementByIdById('root'));

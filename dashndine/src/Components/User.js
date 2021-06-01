@@ -1,7 +1,10 @@
-import React, { Component } from "react";
+import React from "react";
+import ReactDOM from 'react-dom';
 
-const User = () => {
-
+class User extends React.Component {
+    render () {
+        return
+    }
 }
 
-export default User;
+ReactDOM.render(<User />, document.getElementByIdById('root'));

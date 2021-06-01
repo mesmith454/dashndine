@@ -1,8 +1,10 @@
-import React, { Component } from "react";
+import React from "react";
+import ReactDOM from 'react-dom';
 
-
-const Cart = (props) => {
-
+class Cart extends React.Component {
+    render () {
+        return
+    }
 }
 
-export default Cart;
+ReactDOM.render(<Cart />, document.getElementByIdById('root'));

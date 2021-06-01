@@ -3,7 +3,7 @@ import { Fragment } from 'react'
 import Header from './Components/Layout/Header'
 
 // const foodApi = ""
-// const gmapsApi = ""
+// const mapsApi = ""
 
 function App() {
   return (
