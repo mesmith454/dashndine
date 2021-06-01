@@ -6,6 +6,14 @@ import Header from './Components/Layout/Header'
 // const mapsApi = ""
 
 function App() {
+//state = []
+
+//componentDidMount () {
+//   const foodAPI = ""
+//   .then((response) => response.json())
+//   .then((data) => console.log(data))
+// }
+
   return (
     <Fragment>
     < Header />
